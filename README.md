@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LONTIXCODE/.github/main/CDN/README_Banner.png" width="100%">
-</p>
+# Info about repo
 
-# Current projects
+* [/CDN](https://github.com/LONTIXCODE/.github/tree/main/CDN) - Images and etc. files for projects
 
-* [ReXtra - Xtra (Twitch) fork](https://github.com/LONTIXCODE/reXtra)
-
-* [Lontix - Digital business card service](https://lontix.su)
+* [/Profile](https://github.com/LONTIXCODE/.github/tree/main/profile) - Github profile integrations
